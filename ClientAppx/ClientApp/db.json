@@ -1,0 +1,100 @@
+{
+    "companies": [
+      {
+        "id": "1",
+        "name": "Mock Company 1",
+        "categoryId": "electrical_plumbing",
+        "hasDiscount": false,
+        "description": "Your trusted partner for electrical and plumbing solutions.",
+        "logo": "https://source.unsplash.com/random/400x400/?business&sig=1",
+        "subCategories": [
+          {
+            "id": "1_subcat1",
+            "name": "Electrical Plumbing Subcat 1",
+            "services": [
+              {
+                "id": "1_service1",
+                "name": "Pipe Repair",
+                "price": 50,
+                "description": "Fixing leaks and burst pipes",
+                "company": "Mock Company 1"
+              },
+              {
+                "id": "1_service2",
+                "name": "Wiring Installation",
+                "price": 80,
+                "description": "Installation of electrical wiring",
+                "company": "Mock Company 1"
+              }
+            ]
+          },
+          {
+            "id": "1_subcat2",
+            "name": "Electrical Plumbing Subcat 2",
+            "services": [
+              {
+                "id": "1_service3",
+                "name": "Leak Detection",
+                "price": 70,
+                "description": "Identifying leaks in plumbing",
+                "company": "Mock Company 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Mock Company 2",
+        "categoryId": "home_repairs",
+        "hasDiscount": true,
+        "description": "Expert home repair services at your doorstep.",
+        "logo": "https://source.unsplash.com/random/400x400/?business&sig=2",
+        "subCategories": [
+          {
+            "id": "2_subcat1",
+            "name": "Home Repairs Subcat 1",
+            "services": [
+              {
+                "id": "2_service1",
+                "name": "Roof Fix",
+                "price": 120,
+                "description": "Repairing and maintaining roofs",
+                "company": "Mock Company 2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Mock Company 3",
+        "categoryId": "cleaning_pest",
+        "hasDiscount": false,
+        "description": "Keeping your spaces sparkling clean.",
+        "logo": "https://source.unsplash.com/random/400x400/?business&sig=3",
+        "subCategories": [
+          {
+            "id": "3_subcat1",
+            "name": "Cleaning & Pest Subcat 1",
+            "services": [
+              {
+                "id": "3_service1",
+                "name": "Deep Cleaning",
+                "price": 90,
+                "description": "Comprehensive cleaning service",
+                "company": "Mock Company 3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "categories": [
+      { "id": "electrical_plumbing", "name": "Electrical Plumbing" },
+      { "id": "home_repairs", "name": "Home Repairs" },
+      { "id": "cleaning_pest", "name": "Cleaning & Pest" },
+      { "id": "discounts", "name": "Discounts" }
+    ]
+  }
+  

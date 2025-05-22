@@ -1,0 +1,11 @@
+{
+    "greeting": "Hi {{name}},",
+    "needHelp": "Need some help today?",
+    "loading": "Loading...",
+    "error": {
+      "network": "Network Unavailable",
+      "server": "Server is down. Please try again later."
+    },
+    "retry": "Retry"
+  }
+  
