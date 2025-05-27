@@ -1,6 +1,6 @@
 # Frontend-app
 
-A production-grade React Native mobile application built as part of a startup MVP. This app supports dynamic service ordering, company listings, user interaction flows, and end-to-end frontend infrastructure.
+A near production-grade React Native mobile application built as part of a startup MVP. This app supports dynamic service ordering, company listings, user interaction flows, and end-to-end frontend infrastructure.
 
 ## Overview
 
