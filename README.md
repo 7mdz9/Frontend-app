@@ -1,6 +1,6 @@
 # Frontend-app
 
-This is a near production-grade frontend of a real AI-powered startup app, Oosal — co-founded and developed by the author. For confidentiality reasons, this repository does not include the most recent production code. The app supports dynamic service ordering, curated company listings, user interaction flows, and end-to-end frontend infrastructure.
+This is a near production-grade frontend of a real AI-powered startup app, Oosal — co-founded and developed by the author. For confidentiality reasons, this repository does not include the most recent production code. The app supports dynamic service ordering, curated company listings, user interaction flows, and end-to-end frontend infrastructure. The AI chatbot integration is currently in development and represented by placeholder components in this version.
 
 ## Overview
 
