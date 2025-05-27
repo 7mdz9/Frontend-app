@@ -1,6 +1,6 @@
 # Frontend-app
 
-A near production-grade React Native mobile application built as part of a startup MVP. This app supports dynamic service ordering, company listings, user interaction flows, and end-to-end frontend infrastructure.
+This is a near production-grade frontend of a real AI-powered startup app, Oosal — co-founded and developed by the author. For confidentiality reasons, this repository does not include the most recent production code. The app supports dynamic service ordering, curated company listings, user interaction flows, and end-to-end frontend infrastructure.
 
 ## Overview
 
