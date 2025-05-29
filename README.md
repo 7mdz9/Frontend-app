@@ -5,8 +5,19 @@ For confidentiality reasons, this repository does not include the most recent pr
 The app supports dynamic service ordering, curated company listings, user interaction flows, and end-to-end frontend infrastructure.  
 The **AI chatbot integration is currently in development** and represented by placeholder components in this version.
 
----
 
+---
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Navigation Structure](#navigation-structure)
+- [Internationalization](#internationalization)
+- [Technologies Used](#technologies-used)
+- [Testing & Reliability](#testing--reliability)
+- [How to Run the App](#how-to-run-the-app)
+- [Notes](#notes)
+---
 ## Overview
 
 This project is the frontend for a smart service marketplace app that allows users to:
