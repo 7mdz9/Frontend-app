@@ -16,14 +16,16 @@ The **AI chatbot integration is currently in development** and represented by pl
 - [Features](#features)
 - [Architecture](#architecture)
 - [Navigation Structure](#navigation-structure)
-- [Internationalization](#internationalization)
+- [Internationalization](#internationalization-not-fully-implemented)
 - [Technologies Used](#technologies-used)
 - [Testing & Reliability](#testing--reliability)
+- [Prerequisites](#prerequisites)
 - [How to Run the App](#how-to-run-the-app)
 - [Run on Mobile (Expo Go)](#run-on-mobile-expo-go)
 - [Notes](#notes)
 - [Author](#author)
 - [License & Use](#license--use)
+
 
 ---
 ## Overview
@@ -138,6 +140,20 @@ Navigation is powered by **React Navigation v6**, organized as:
 - Global error boundaries using `AppErrorBoundary.jsx`
 - Basic unit test setup included with Jest (`jestSetup.js`)
 - Modular screens and reusable components for easy testing
+
+---
+## Prerequisites
+Before running the app, make sure you have the following installed:
+
+Node.js (v16 or later recommended)
+
+Expo CLI: Install globally using npm install -g expo-cli
+
+Git (to clone the repository)
+
+Expo Go app on your mobile device
+→ iOS App Store
+→ Google Play Store
 
 ---
 
