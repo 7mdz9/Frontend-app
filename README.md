@@ -4,12 +4,15 @@ This is a near production-grade frontend of a real AI-powered startup app, **Oos
 For confidentiality reasons, this repository does not include the most recent production code.  
 The app supports dynamic service ordering, curated company listings, user interaction flows, and end-to-end frontend infrastructure.  
 The **AI chatbot integration is currently in development** and represented by placeholder components in this version.
-> This public codebase represents approximately **60% of the full client-side implementation**. It does not reflect the final production design, and several core features are still under development or held privately.
+> ⚠️ **This public codebase represents approximately 60% of the full client-side implementation.**  
+> The current design is **not final** and may undergo significant changes — including complete layout redesigns, feature removals, or updates.  
+> Several advanced features are either under development or implemented privately outside this repository.
+
 
 ---
 ## Table of Contents
 - [Overview](#overview)
-- [🎥 Demo Video](#-demo-video)
+- [Demo Video](#demo-video)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Navigation Structure](#navigation-structure)
@@ -20,6 +23,8 @@ The **AI chatbot integration is currently in development** and represented by pl
 - [Run on Mobile (Expo Go)](#run-on-mobile-expo-go)
 - [Notes](#notes)
 - [Author](#author)
+- [License & Use](#license--use)
+
 ---
 ## Overview
 
@@ -34,7 +39,7 @@ This project is the frontend for a smart service marketplace app that allows use
 Built using **React Native + Expo**, the app emphasizes **modular design**, **scalability**, and **cross-platform performance**.
 
 ---
-## 🎥 Demo Video
+## Demo Video
 
 👉 [Watch the MVP demo here](https://youtu.be/OUiaNy366N4)
 
@@ -169,6 +174,16 @@ Final production deployment and infrastructure are managed in a private environm
 **Mohamed Jasem**  
 Co-founder & CTO, Oosal  
 cto@oosal.app 
+
+---
+## License & Use
+
+This repository is part of a licensed UAE-registered company, **Oosal**.
+
+All source code and design patterns shared here are protected as **proprietary intellectual property**.  
+No part of this codebase may be copied, reused, or distributed without **explicit written permission** from the company founders.
+
+For partnerships, demo access, or usage inquiries, please contact: [cto@oosal.app](mailto:cto@oosal.app)
 
 
 
