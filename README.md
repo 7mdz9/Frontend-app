@@ -107,7 +107,7 @@ Navigation is powered by **React Navigation v6**, organized as:
 
 ---
 
-## Internationalization
+## Internationalization (Not fully implemented)
 
 - Language setup with **i18next** + `react-native-localize`
 - English + Arabic support
