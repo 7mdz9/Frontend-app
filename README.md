@@ -135,6 +135,8 @@ cd Frontend-app/ClientAppx/ClientApp
 npm install
 npx expo start
 ```
+
+---
 ## Run on Mobile (Expo Go)
 Press s to switch to Expo Go mode (in the terminal)
 
@@ -144,6 +146,7 @@ Scan the QR code displayed in the terminal or browser
 
 Alternatively, click “Run in Expo Go” from the Expo DevTools browser interface
 
+---
 ## Notes
 Optimized for iOS, but compatible with Android
 
@@ -151,6 +154,12 @@ Features like AI agent, push notifications, and real backend integration are und
 
 Final production deployment and infrastructure are managed in a private environment
 
+---
+## Author
+
+**Mohamed Jasem**  
+Co-founder & CTO, Oosal  
+cto@oosal.app 
 
 
 
