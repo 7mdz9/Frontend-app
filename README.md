@@ -123,21 +123,23 @@ git clone https://github.com/7mdz9/Frontend-app.git
 cd Frontend-app/ClientAppx/ClientApp
 npm install
 npx expo start
+```
+## Run on Mobile (Expo Go)
+Press s to switch to Expo Go mode (in the terminal)
 
-Press s to switch to Expo Go mode
-Scan the QR code using the Expo Go app on your phone (iOS or Android)
-Or click “Run in Expo Go” in the browser interface
+Open the Expo Go app on your iOS or Android device
 
-Notes
-Optimized for iOS (but runs on both platforms)
+Scan the QR code displayed in the terminal or browser
 
-Some features (AI agent, push notifications, order backend) are under development
+Alternatively, click “Run in Expo Go” from the Expo DevTools browser interface
 
-Production deployment and integration are handled in private infrastructure
+## Notes
+Optimized for iOS, but compatible with Android
 
-Author
-Mohamed Jasem
-Co-founder & CTO, Oosal
+Features like AI agent, push notifications, and real backend integration are under development
+
+Final production deployment and infrastructure are managed in a private environment
+
 
 
 
