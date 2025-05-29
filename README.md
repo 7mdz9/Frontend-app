@@ -4,11 +4,12 @@ This is a near production-grade frontend of a real AI-powered startup app, **Oos
 For confidentiality reasons, this repository does not include the most recent production code.  
 The app supports dynamic service ordering, curated company listings, user interaction flows, and end-to-end frontend infrastructure.  
 The **AI chatbot integration is currently in development** and represented by placeholder components in this version.
-
+> This public codebase represents approximately **60% of the full client-side implementation**. It does not reflect the final production design, and several core features are still under development or held privately.
 
 ---
 ## Table of Contents
 - [Overview](#overview)
+- [🎥 Demo Video](#-demo-video)
 - [Features](#features)
 - [Architecture](#architecture)
 - [Navigation Structure](#navigation-structure)
@@ -16,7 +17,9 @@ The **AI chatbot integration is currently in development** and represented by pl
 - [Technologies Used](#technologies-used)
 - [Testing & Reliability](#testing--reliability)
 - [How to Run the App](#how-to-run-the-app)
+- [Run on Mobile (Expo Go)](#run-on-mobile-expo-go)
 - [Notes](#notes)
+- [Author](#author)
 ---
 ## Overview
 
@@ -30,6 +33,12 @@ This project is the frontend for a smart service marketplace app that allows use
 
 Built using **React Native + Expo**, the app emphasizes **modular design**, **scalability**, and **cross-platform performance**.
 
+---
+## 🎥 Demo Video
+
+👉 [Watch the MVP demo here](https://youtu.be/OUiaNy366N4)
+
+> This demo reflects the **latest development updates and current stage of the MVP**, including features that may not yet appear in the public GitHub repository.  
 ---
 
 ## Features
