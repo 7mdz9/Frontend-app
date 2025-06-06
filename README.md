@@ -41,11 +41,8 @@ This project is the frontend for a smart service marketplace app that allows use
 Built using **React Native + Expo**, the app emphasizes **modular design**, **scalability**, and **cross-platform performance**.
 
 ---
-## Demo Video
+## Demo Video (Will be provided in the future)
 
-👉 [Watch the MVP demo here](https://youtu.be/OUiaNy366N4)
-
-> This demo reflects the **latest development updates and current stage of the MVP**, including features that may not yet appear in the public GitHub repository.  
 ---
 
 ## Features
